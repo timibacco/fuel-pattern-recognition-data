@@ -1,0 +1,17 @@
+direction,landmark,latitude_n,longitude_e,class
+Outbound,First U-turn,7.499379,4.523406,none
+Outbound,1st bump,7.502799,4.525665,none
+Outbound,2nd bump,7.503518,4.526139,none
+Outbound,Opa-dam junction,7.504830,4.526764,O1
+Outbound,2nd turn/ctlw,7.510743,4.524249,O2a
+Outbound,3rd bump,7.511788,4.523583,O2b
+Outbound,Banking area,7.513861,4.522480,O3
+Outbound,Bus stop,7.517395,4.523192,O4
+Outbound,Roundabout,7.517986,4.522981,none
+Inbound,SUB,7.517694,4.522246,none
+Inbound,FRSC/bus stop,7.517514,4.522453,I1
+Inbound,Religion Ground,7.512699,4.522725,I2
+Inbound,2nd turn/ctlw,7.510605,4.524090,none
+Inbound,Education,7.508187,4.525617,I3
+Inbound,Bump,7.507716,4.525988,I3
+Inbound,Adesakin footpath/maintenance,7.499505,4.523228,I4
